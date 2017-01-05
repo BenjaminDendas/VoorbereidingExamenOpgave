@@ -1,0 +1,12 @@
+C:\Dev\DotNet\VoorbereidingExamenOpgave\GameEF\bin\Debug\GameEF.dll.config
+C:\Dev\DotNet\VoorbereidingExamenOpgave\GameEF\bin\Debug\GameEF.dll
+C:\Dev\DotNet\VoorbereidingExamenOpgave\GameEF\bin\Debug\GameEF.pdb
+C:\Dev\DotNet\VoorbereidingExamenOpgave\GameEF\bin\Debug\EntityFramework.dll
+C:\Dev\DotNet\VoorbereidingExamenOpgave\GameEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Dev\DotNet\VoorbereidingExamenOpgave\GameEF\bin\Debug\EntityFramework.xml
+C:\Dev\DotNet\VoorbereidingExamenOpgave\GameEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Dev\DotNet\VoorbereidingExamenOpgave\GameEF\obj\Debug\GameEF.dll
+C:\Dev\DotNet\VoorbereidingExamenOpgave\GameEF\obj\Debug\GameEF.pdb
+C:\Dev\DotNet\VoorbereidingExamenOpgave\GameEF\obj\Debug\GameEF.csprojResolveAssemblyReference.cache
+C:\Dev\DotNet\VoorbereidingExamenOpgave\GameEF\obj\Debug\GameEF.Migrations.initial.resources
+C:\Dev\DotNet\VoorbereidingExamenOpgave\GameEF\obj\Debug\GameEF.csproj.GenerateResource.Cache

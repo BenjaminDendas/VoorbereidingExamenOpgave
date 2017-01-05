@@ -1,0 +1,16 @@
+﻿<Window x:Class="VoorbereidingExamenOpgave.MonsterWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VoorbereidingExamenOpgave"
+        mc:Ignorable="d"
+        Title="MonsterWindow" Height="379.245" Width="661.303" ResizeMode="NoResize">
+    <Grid>
+        <Button x:Name="addMonsterButton" Content="Add Monster" HorizontalAlignment="Left" Margin="35,37,0,0" VerticalAlignment="Top" Width="97" Height="63" Click="addMonsterButton_Click"/>
+        <Button x:Name="deleteMonsterButton" Content="Delete Monster" HorizontalAlignment="Left" Margin="35,229,0,0" VerticalAlignment="Top" Width="97" Height="63" Click="deleteMonsterButton_Click"/>
+        <Button x:Name="updateMonsterButton" Content="Update Monster" HorizontalAlignment="Left" Margin="35,125,0,0" VerticalAlignment="Top" Width="97" Height="72" Click="updateMonsterButton_Click"/>
+        <DataGrid x:Name="monsterDataGrid" SelectionMode="Single"  ItemsSource="{Binding}" HorizontalAlignment="Left" Margin="158,37,0,0" VerticalAlignment="Top" Height="255" Width="485" DataContextChanged="monsterDataGrid_DataContextChanged"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,5 @@
+C:\Dev\DotNet\VoorbereidingExamenOpgave\Ado3LagenMonster\bin\Debug\Ado3LagenMonster.dll
+C:\Dev\DotNet\VoorbereidingExamenOpgave\Ado3LagenMonster\bin\Debug\Ado3LagenMonster.pdb
+C:\Dev\DotNet\VoorbereidingExamenOpgave\Ado3LagenMonster\obj\Debug\Ado3LagenMonster.csprojResolveAssemblyReference.cache
+C:\Dev\DotNet\VoorbereidingExamenOpgave\Ado3LagenMonster\obj\Debug\Ado3LagenMonster.dll
+C:\Dev\DotNet\VoorbereidingExamenOpgave\Ado3LagenMonster\obj\Debug\Ado3LagenMonster.pdb
