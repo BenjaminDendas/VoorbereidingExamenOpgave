@@ -42,8 +42,8 @@ namespace GameEF.Migrations
             A5.Character = C3;
 
             A1.CharacterId = C1.CharacterId;
-            A3.CharacterId = C3.CharacterId;
-            A5.CharacterId = A5.CharacterId;
+            A3.CharacterId = C2.CharacterId;
+            A5.CharacterId = C3.CharacterId;
 
             context.Accounts.Add(A1);
             context.Accounts.Add(A2);

@@ -10,3 +10,4 @@ C:\Dev\DotNet\VoorbereidingExamenOpgave\GameEF\obj\Debug\GameEF.pdb
 C:\Dev\DotNet\VoorbereidingExamenOpgave\GameEF\obj\Debug\GameEF.csprojResolveAssemblyReference.cache
 C:\Dev\DotNet\VoorbereidingExamenOpgave\GameEF\obj\Debug\GameEF.Migrations.initial.resources
 C:\Dev\DotNet\VoorbereidingExamenOpgave\GameEF\obj\Debug\GameEF.csproj.GenerateResource.Cache
+C:\Dev\DotNet\VoorbereidingExamenOpgave\GameEF\obj\Debug\GameEF.Migrations.SeedFix.resources
